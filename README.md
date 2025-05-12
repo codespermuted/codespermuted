@@ -23,7 +23,7 @@ I’m particularly interested in:
 
 - 🧬 **[ZIBseq](https://github.com/codespermuted/ZIBseq)**  
   Implementation of zero-inflated beta regression for metagenomic differential abundance analysis.  
-  This was developed as a methodologically improved extension to an existing tool, and tried to be contributed via [pull request](https://github.com/microsud/zibseq/pulls) to the original project. 
+  This was developed as a methodologically improved extension to an existing tool, and tried to be contributed via pull request to the original project. 
 
 ---
 
