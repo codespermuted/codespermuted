@@ -29,7 +29,7 @@ I’m particularly interested in:
 
 ## 📝 Blog
 
-I write about statistical models, deep learning approaches, uncertainty estimation, federated learning, and etc. on my blog:  
+I write about statistical models, deep learning approaches, uncertainty estimation, federated learning, and research notes on my blog:  
 👉 [hello-world-jhyu95.tistory.com](https://hello-world-jhyu95.tistory.com)
 
 ---
