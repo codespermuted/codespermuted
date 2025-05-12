@@ -5,8 +5,8 @@ I'm a machine learning and applied statistics researcher with a strong interest 
 I’m particularly interested in:
 
 - **Uncertainty quantification** in neural networks and predictive models
-- **Federated learning** convergency efficient and privacy-preserving model development
-- **Statistical modeling with interpretability**, emphasizing techniques that are explainable and scientifically grounded
+- **Federated learning** convergency efficiecy and privacy-preserving model development
+- **Statistical modeling with interpretability** emphasizing techniques that are explainable and scientifically grounded
 
 ---
 
