@@ -37,5 +37,5 @@ I write about statistical models, deep learning approaches, uncertainty estimati
 ## 📬 Contact
 
 - GitHub: [@codespermuted](https://github.com/codespermuted)
-- e-mail: [jaehongyu0105@gmail.com]
+- e-mail: jaehongyu0105@gmail.com
 - Blog: [hello-world-jhyu95.tistory.com](https://hello-world-jhyu95.tistory.com)
