@@ -38,3 +38,8 @@ I write about statistical models, deep learning approaches, uncertainty estimati
 
 - GitHub: [@codespermuted](https://github.com/codespermuted)
 - e-mail: jaehongyu0105@gmail.com
+
+---
+
+## 📄 Curriculum Vitae
+📎 [View My CV (PDF)](https://github.com/user-attachments/files/20159070/Cv2.pdf)
