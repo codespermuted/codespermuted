@@ -10,11 +10,11 @@ I'm particularly interested in:
 
 ## 🔬 Selected Projects
 
-- ⏱️ **[C-BAL](https://github.com/codespermuted/cbal)**  
+- ⏱️ **[C-BAL(Compute-BAseLine)](https://github.com/codespermuted/cbal)**  
   An AutoML time series forecasting library supporting 20+ models — from classical statistics to modern deep learning — with greedy ensemble selection, conformal prediction intervals, and a one-liner API. Inspired by AutoGluon-TimeSeries.
 
 - 🔭 **[KalmanLinear](https://github.com/codespermuted/kalman_linear)**  
-  A lightweight state-space forecasting model (~1K parameters) that frames time series prediction as optimal state estimation. Subsumes DLinear as a degenerate case, with built-in uncertainty quantification via the Kalman covariance.
+  A lightweight state-space forecasting model (~1K parameters) that frames time series prediction as optimal state estimation.
 
 - 🔍 **[SF-Rx](https://github.com/codespermuted/SF-RX)**  
   A multi-output deep neural network framework for predicting drug–drug interactions under realistic, heterogeneous conditions.
