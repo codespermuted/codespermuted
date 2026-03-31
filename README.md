@@ -10,10 +10,10 @@ I'm particularly interested in:
 
 ## 🔬 Selected Projects
 
-- ⏱️ **[C-BAL(Compute-BAseLine)](https://github.com/codespermuted/cbal)**  (Comming Soon...)
+- ⏱️ **[C-BAL(Compute-BAseLine)](https://github.com/codespermuted/cbal) (Comming Soon...)**
   An AutoML time series forecasting library supporting 20+ models — from classical statistics to modern deep learning — with regime-aware ensemble selection, epistemic/aleatoric uncertainty decomposition, automated failure forensics, and feature diagnostics. Zero runtime choices required. Inspired by AutoGluon-TimeSeries.
 
-- 🔭 **[KalmanLinear](https://github.com/codespermuted/kalman_linear)**  (Comming Soon...)
+- 🔭 **[KalmanLinear](https://github.com/codespermuted/kalman_linear) (Comming Soon...)**
   A lightweight state-space forecasting model (~1K parameters) that frames time series prediction as optimal state estimation.
 
 - 🔍 **[SF-Rx](https://github.com/codespermuted/SF-RX)**  
